@@ -21,7 +21,7 @@ The program supports various operations on sets, including:
 
 1. Clone the repository to your local machine.
 2. Open the project in your preferred C++ development environment.
-3. Build and run the program.
+3. Build and run the program (run [main.cpp](https://github.com/StanleyStanMarsh/multiset/blob/main/main.cpp)).
 4. Follow the on-screen instructions to input the multisets and perform the desired operations.
 
 ## Requirements
